@@ -12,7 +12,7 @@
 
 **Objetivo General**
 
-Decribir objetivo general
+Describir de manera detallada como instalar las diferentes herramientas que utilizaremos en la asignatura.
 
 **Objetivos específicos**
 
@@ -28,7 +28,7 @@ Por ejemplo,
 
 Explicar como se usarán las herramientas:
 
-**Anaconda**:: Definir...
+**Anaconda**: Es una distribución de código abierto que facilita la gestión y despliegue, de paquetes y entornos de trabajo en lengujes de programación como Python y R. Esta herramienta será de gran utilidad en el desarrollo de la asignatura a lo largo de la realización de los laboratorios.
 
 **Jupyter**:
 
@@ -36,24 +36,8 @@ Explicar como se usarán las herramientas:
 
 **Google Colab**:
 
-**Visual Studio Code**: Definir
+**Visual Studio Code**: Es un editor de código que será utilizado en las implementaciones de las soluciones para los laboratorios.
 
-## 3. Materiales y métodos
-
-Describir los elementos que se usarán en el laboratorio (dataset, tamaño, que tipo de datos tiene)
-Describir como se realizará el laboratorio, la secuencia de pasos, y describir el experimento.
-
-## 4. Resultados obtenidos
-
-Indicar si el funcionamiento es correcto, agregar métricas de rendimiento como tiempo de ejecución y cantidad de memoria utilizada.
-
-| Tipo de Experimento   | Tiempo de ejecucion (mseg) | Memoria utilizada (Mb) |
-| --------------------- | -------------------------- | ---------------------- |
-| Programa Uno (p01.py) |                            |                        |
-| Programa Dos (p02.py) |                            |                        |
-
-<img src="images/column-chart.png" width="300">
-
-## 5. Conclusiones
+## 3. Conclusiones
 
 Apartir de los resultados inferir nuevo conocimiento. Por ejemplo, al ultilizar concatenación de listas cono "+" el programa es menos eficiente en términos de tiempo que utilizar 'append()'.
